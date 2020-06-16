@@ -14,7 +14,7 @@ Installation
 
 Example Bot
 -----------
-
+.. code-block:: javascript
    const Discord = require('discord.hy');
    let client = new Discord.Client()
 
