@@ -1,1 +1,1 @@
-.. include:: ../CLIENT.rst
+.. include:: ../methods/CLIENT.rst
