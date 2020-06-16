@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+Welcome to Discord.hy's documentation!
 ==================================================
 
 Contents:
@@ -16,10 +16,7 @@ Contents:
 
 
 
-Indices and tables
+Other
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+* `Collection(we use the same collection system as discord.js) <https://discord.js.org/#/docs/collection/master/class/Collection>`_
