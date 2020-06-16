@@ -15,8 +15,6 @@ Installation
 Example Bot
 -----------
 
-.. code-black:: javascript
-   
    const Discord = require('discord.hy');
    let client = new Discord.Client()
 
