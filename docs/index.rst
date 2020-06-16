@@ -1,17 +1,9 @@
 Welcome to Discord.hy's documentation!
 ==================================================
 
-Contents:
+Installation
+------------
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
+.. code-block:: text
 
-   *
-
-
-
-Other
-==================
-
-* `Collection(we use the same collection system as discord.js) <https://discord.js.org/#/docs/collection/master/class/Collection>`_
+   npm i discord.hy
