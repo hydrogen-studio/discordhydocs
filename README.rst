@@ -1,6 +1,3 @@
-Welcome to Discord.hy, the most **modern** discord bot making library, developed by Hydrogen Studio.
-----------------------------------------------------------------------------------------------------
-
 Info
 ----
 Requires Discord.js version 12.0.0 or above
