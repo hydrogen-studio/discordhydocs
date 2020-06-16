@@ -1,10 +1,3 @@
-Welcome to Discord.hy's documentation!
-==================================================
-
-.. image:: https://readthedocs.org/projects/discordhydocs/badge/?version=latest
-:target: https://discordhydocs.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
-
 Installation
 ------------
 
