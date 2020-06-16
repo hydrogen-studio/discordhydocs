@@ -20,7 +20,6 @@ npm i discord.hy
 Basic Bot Example
 -----------------
 
-.. code-block:: javascript
  let Discord = require("discord.hy")// import library | npm i discord.hy
  let client = new Discord.Client({ websocketstat: true });//set up client with options
   
