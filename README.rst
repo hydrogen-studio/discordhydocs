@@ -15,12 +15,12 @@ Our goal is to reached 100% api coverage at the end of 2020.
 Install
 -------
 
-```npm i discord.hy```
+npm i discord.hy
 
 Basic Bot Example
 -----------------
 
-```js
+.. code-block:: javascript
 let Discord = require("discord.hy")// import library | npm i discord.hy
 let client = new Discord.Client({ websocketstat: true });//set up client with options
  
