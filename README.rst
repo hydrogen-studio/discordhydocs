@@ -17,7 +17,7 @@ npm i discord.hy
 Basic Bot Example
 -----------------
 
-.. include:: example.js
+.. include:: ./example.js
 
 WE HAVE BEATEN 100% api coverage! We created this package like discord.js so that discord.js developers can migrate their bot from discord.js to discord.hy faster, with only a few thing to change.
 
