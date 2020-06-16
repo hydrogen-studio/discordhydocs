@@ -4,4 +4,4 @@ Client
 Constructor
 -----------
 
-    new Discord.Client(options)
+    $new Discord.Client(options)
